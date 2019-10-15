@@ -1,1 +1,3 @@
-class ChattyStudent
+
+require class ChattyStudent
+end 
