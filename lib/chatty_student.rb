@@ -1,1 +1,1 @@
-class the 
+class ChattyStudent
